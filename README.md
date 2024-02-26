@@ -1,2 +1,2 @@
 # Bookingapp_backend
-Developed a MERN stack Bookingapp.
+Change branch to master to view the code.
